@@ -17,6 +17,6 @@ public class Main {
 
     //todo: Implement method and remove this line
     private static int multiply(int a, int b) {
-        return ;
+        return 0;
     }
 }
