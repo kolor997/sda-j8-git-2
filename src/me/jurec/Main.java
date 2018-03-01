@@ -12,11 +12,11 @@ public class Main {
 
     //todo: Implement method and remove this line
     private static int add(int a, int b) {
-        return 0;
+        return a+b;
     }
 
     //todo: Implement method and remove this line
     private static int multiply(int a, int b) {
-        return 0;
+        return ;
     }
 }
